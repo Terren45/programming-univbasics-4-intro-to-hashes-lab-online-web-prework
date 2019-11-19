@@ -15,7 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(hat, black)
-  my_hash_creator = {:hat => "balck"}
+  my_hash_creator = {:hat => "black"}
   my_hash_creator[black]
 end
 
