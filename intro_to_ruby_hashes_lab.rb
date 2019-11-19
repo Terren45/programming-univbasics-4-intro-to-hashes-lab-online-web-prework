@@ -14,7 +14,7 @@ def id_generator
   id_generator = {:id => 1}
 end
 
-def my_hash_creator(hats, shorts )
+def my_hash_creator(key, value )
   my_hash_creator = {:hats => "shorts"}
 end
 
