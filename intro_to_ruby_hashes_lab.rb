@@ -15,7 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(hat, 1)
-  my_hash_creator = {:hat => "1"}
+  hat
 end
 
 def read_from_hash(hash, key)
