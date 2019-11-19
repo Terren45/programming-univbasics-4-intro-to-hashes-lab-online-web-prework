@@ -16,6 +16,7 @@ end
 
 def my_hash_creator(hat, black)
   my_hash_creator = {:hat => "black"}
+  my_hash_creator[hat]
 end
 
 def read_from_hash(hash, key)
