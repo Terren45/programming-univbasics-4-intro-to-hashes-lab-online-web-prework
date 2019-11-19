@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {:cars => ford}
+  my_hash = {:cars => "ford"}
 end
 
 def pioneer
